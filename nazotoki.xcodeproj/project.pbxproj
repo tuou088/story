@@ -15,6 +15,8 @@
 		566BA643203BF6D400D9FCDE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 566BA641203BF6D400D9FCDE /* LaunchScreen.storyboard */; };
 		566BA64E203BF6D400D9FCDE /* nazotokiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566BA64D203BF6D400D9FCDE /* nazotokiTests.swift */; };
 		566BA659203BF6D500D9FCDE /* nazotokiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566BA658203BF6D500D9FCDE /* nazotokiUITests.swift */; };
+		566BA667203BF82200D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 566BA666203BF82200D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg */; };
+		566BA6DD203C158F00D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 566BA6DC203C158F00D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		566BA654203BF6D500D9FCDE /* nazotokiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = nazotokiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		566BA658203BF6D500D9FCDE /* nazotokiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nazotokiUITests.swift; sourceTree = "<group>"; };
 		566BA65A203BF6D500D9FCDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		566BA666203BF82200D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cool-Wild-Animal-Wallpaper-For-Desktop.jpg"; sourceTree = "<group>"; };
+		566BA6DC203C158F00D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Cool-Wild-Animal-Wallpaper-For-Desktop.jpg"; path = "../../../../Downloads/Cool-Wild-Animal-Wallpaper-For-Desktop.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				566BA63F203BF6D400D9FCDE /* Assets.xcassets */,
 				566BA641203BF6D400D9FCDE /* LaunchScreen.storyboard */,
 				566BA644203BF6D400D9FCDE /* Info.plist */,
+				566BA6DC203C158F00D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg */,
+				566BA666203BF82200D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg */,
 			);
 			path = nazotoki;
 			sourceTree = "<group>";
@@ -236,7 +242,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				566BA643203BF6D400D9FCDE /* LaunchScreen.storyboard in Resources */,
+				566BA6DD203C158F00D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg in Resources */,
 				566BA640203BF6D400D9FCDE /* Assets.xcassets in Resources */,
+				566BA667203BF82200D9FCDE /* Cool-Wild-Animal-Wallpaper-For-Desktop.jpg in Resources */,
 				566BA63E203BF6D400D9FCDE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
